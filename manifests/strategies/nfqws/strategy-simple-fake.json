@@ -4,13 +4,16 @@
   "name": "strategy-simple-fake",
   "version": "1.0.0",
   "author": "flowseal",
-  "description": "Стратегия simple-fake из репозитория zapret для Windows",
+  "description": "Стратегия simple-fake из репозитория zapret для Windows (Обновлена shlynas(roter)",
   "dependencies": [
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
   ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake.txt",
-    "sha256": "3872f35c23aacfa5b530d1d18f975c9569212ea3497a7096de0c0971e4affcd2"
+    "sha256": "e4bc52db7ef737a5d5198bfb6f6f4d0e477160d6c2caba232108d5aacaaeb8d6"
   }
 }

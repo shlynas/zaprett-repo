@@ -4,14 +4,17 @@
   "name": "strategy-alt10",
   "version": "1.0.0",
   "author": "flowseal",
-  "description": "Порт стратегии alt10 от flowseal",
+  "description": "Порт стратегии alt10 от flowseal (Обновлена shlynas(roter)",
   "dependencies": [
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json",
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_4pda_to.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
   ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt10.txt",
-    "sha256": "379edfd416508b617f4ab4d1a3c3a941f731d8d61694158e68219e232f64fcea"
+    "sha256": "ac1a3a50b747892f69b2a476a7b641eea22a2dafc01ae23d2e5f35768656498e"
   }
 }

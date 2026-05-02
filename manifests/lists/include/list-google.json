@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "list-google",
+  "name": "list-google",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "list-google из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-google.txt",
+    "sha256": "c5a5cc941366033e86b835b500614da1cbe5dfb49c2eaa589f5febad89661913"
+  }
+}

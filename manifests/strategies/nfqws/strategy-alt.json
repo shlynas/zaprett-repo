@@ -4,13 +4,16 @@
   "name": "strategy-alt",
   "version": "1.0.0",
   "author": "flowseal",
-  "description": "Стратегия alt из репозитория zapret для Windows",
+  "description": "Стратегия alt из репозитория zapret для Windows (Обновлена shlynas(roter)",
   "dependencies": [
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
   ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt.txt",
-    "sha256": "1debb4497add69ff91a24f6496055e3e77145846f95c90dbe1bfd3a4db313ecd"
+    "sha256": "edf9a7442b25f925141123fca76b270a422dc7a0f9c2f15179ad71b784176205"
   }
 }

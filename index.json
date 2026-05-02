@@ -505,6 +505,46 @@
       "id": "tls_clienthello_sberbank_ru",
       "type": "bin",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_sberbank_ru.json"
+    },
+    {
+      "id": "strategy-alt9",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-alt9.json"
+    },
+    {
+      "id": "strategy-fake-tls-auto",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-fake-tls-auto.json"
+    },
+    {
+      "id": "strategy-simple-fake-alt2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-simple-fake-alt2.json"
+    },
+    {
+      "id": "stun",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json"
+    },
+    {
+      "id": "quic_initial_dbankcloud_ru",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json"
+    },
+    {
+      "id": "ipset-all",
+      "type": "ipset",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/ipset-all.json"
+    },
+    {
+      "id": "list-google",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-google.json"
+    },
+    {
+      "id": "list-general-flowseal",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-general-flowseal.json"
     }
   ]
 }

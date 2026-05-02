@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "ipset-all",
+  "name": "ipset-all",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "Список IP из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-all.txt",
+    "sha256": "0b011ca8305266a90ad32e17068dba862969323be00f6498c2359af8b00178ac"
+  }
+}

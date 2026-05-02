@@ -82,8 +82,8 @@
   {
     "name": "list-exclude-general.txt",
     "author": "zaprett-devs and our community",
-    "description": "Общие домены для черного списка",
-    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "description": "Общие домены для черного списка (Обновлён shlynas(roter)",
+    "hash": "398eb56c4482ca83f17a98782084d538101f6daee6785ea8017d9906c0043430",
     "type": "list_exclude",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-general.txt"
   },
@@ -142,5 +142,21 @@
     "hash": "bf2e7827c3a7bdf0483242ffa70210e67eaa5f0a5fb66b6c543742611d010d8c",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-roblox.txt"
+  },
+  {
+    "name": "list-google.txt",
+    "author": "flowseal",
+    "description": "list-google из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
+    "hash": "c5a5cc941366033e86b835b500614da1cbe5dfb49c2eaa589f5febad89661913",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-google.txt"
+  },
+  {
+    "name": "list-general-flowseal.txt",
+    "author": "flowseal",
+    "description": "list-general из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
+    "hash": "e74fbb3325933c32546402b28d0eb592efd39fa7e2746b1f2ede26f62d4a2432",
+    "type": "list",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-general-flowseal.txt"
   }
 ]

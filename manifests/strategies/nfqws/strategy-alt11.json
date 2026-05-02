@@ -3,15 +3,17 @@
   "id": "strategy-alt11",
   "name": "strategy-alt11",
   "version": "1.0.0",
-  "author": "flowsel(портировал Adwhweu)",
-  "description": "Alt11 из zapret-discord-youtube",
+  "author": "flowseal(портировал Adwhweu)",
+  "description": "Alt11 из zapret-discord-youtube (Обновлена shlynas(roter)",
   "dependencies": [
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json"
   ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt11.txt",
-    "sha256": "d7968aabbdbcc4b8d86c3c10112ce601d411caef9a38b8c3ed9b43cda5a11fa1"
+    "sha256": "5a13e97a017a2a6d2a4749dbe63b611fe642b66e42c3d0ef67137906cdc52766"
   }
 }

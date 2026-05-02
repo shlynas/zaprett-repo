@@ -62,5 +62,13 @@
     "hash": "0a5ce87a9a0b96fa4cb1d4f9fb8e1eef43e59881d9ec527d41ff00f1a271e0d3",
     "type": "ipset",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/include/ipset-aws.txt"
+  },
+  {
+    "name": "ipset-all.txt",
+    "description": "Список IP из flowseal/zapret-discord-youtube (Перенёс shlynas(roter))",
+    "author": "flowseal",
+    "hash": "0b011ca8305266a90ad32e17068dba862969323be00f6498c2359af8b00178ac",
+    "type": "ipset",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-all.txt"
   }
 ]

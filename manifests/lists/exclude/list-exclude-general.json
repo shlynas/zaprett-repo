@@ -4,10 +4,10 @@
   "name": "list-exclude-general",
   "version": "1.0.0",
   "author": "zaprett-devs and our community",
-  "description": "Общие домены для черного списка",
+  "description": "Общие домены для черного списка (Обновлён shlynas(roter)",
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-general.txt",
-    "sha256": "5320d882372c6dca19892051c703bd9d92f0eaed9e10bd79a9e567844cda0372"
+    "sha256": "398eb56c4482ca83f17a98782084d538101f6daee6785ea8017d9906c0043430"
   }
 }

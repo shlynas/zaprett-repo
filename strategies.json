@@ -1,209 +1,129 @@
 [
   {
-    "name": "strategy-default.txt",
-    "author": "zaprett-devs",
-    "description": "Стандартная стратегия",
-    "hash": "d0a87151c5fae7d10c36127906c92a599806e21948b9327b5b4928a9e09c1d07",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-default.txt"
-  },
-  {
     "name": "strategy-alt.txt",
     "author": "flowseal",
-    "description": "Стратегия alt из репозитория zapret для Windows",
-    "hash": "7256ce1c5215d3c676b7839e3dd56f135a319ed3b98da6c26007cff5e3d51b3e",
+    "description": "Стратегия alt из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "edf9a7442b25f925141123fca76b270a422dc7a0f9c2f15179ad71b784176205",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-alt.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt.txt"
+  },
+  {
+    "name": "strategy-alt10.txt",
+    "author": "flowseal",
+    "description": "Порт стратегии alt10 от flowseal (Обновлена shlynas(roter)",
+    "hash": "ac1a3a50b747892f69b2a476a7b641eea22a2dafc01ae23d2e5f35768656498e",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt10.txt"
+  },
+  {
+    "name": "strategy-alt11.txt",
+    "author": "flowseal(портировал Adwhweu)",
+    "description": "Alt11 из zapret-discord-youtube (Обновлена shlynas(roter)",
+    "hash": "5a13e97a017a2a6d2a4749dbe63b611fe642b66e42c3d0ef67137906cdc52766",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt11.txt"
   },
   {
     "name": "strategy-alt2.txt",
     "author": "flowseal",
-    "description": "Стратегия alt2 из репозитория zapret для Windows",
-    "hash": "3cace3f559000126de4df87ebefab4d2ffd610fdefc0666c2a40b1072a0da452",
+    "description": "Стратегия alt2 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "b53abba770e4ef91b82a3354fbd28b9f2853216849fa4c1f87b75eb92815d729",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-alt2.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt2.txt"
+  },
+  {
+    "name": "strategy-alt2-roblox.txt",
+    "author": "Hellogames_.",
+    "description": "ALT 2 с обходом для роблокса",
+    "hash": "aa6fa6a7f75a4ad91e2a0cfc78ceefaa5eb23241c33abb6f7497433f3cdb406f",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt2-roblox.txt"
   },
   {
     "name": "strategy-alt3.txt",
     "author": "flowseal",
-    "description": "Стратегия alt3 из репозитория zapret для Windows",
-    "hash": "716be6b8c95e6c721de6cfa8c91f93172798ed9f2d08defc2d99ee96269df330",
+    "description": "Стратегия alt3 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "fac6c15326a13879d7ba579d57cb092fa2fc92fa9c6c002861f91dffeb489493",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-alt3.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt3.txt"
   },
   {
     "name": "strategy-alt4.txt",
     "author": "flowseal",
-    "description": "Стратегия alt4 из репозитория zapret для Windows",
-    "hash": "3aa4dcf556883aff7034ef17c6dcb7ccef1d7680293c63a91fc4b3f010d205cc",
+    "description": "Стратегия alt4 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "08f36acf2060e0ec5dcb8214bb2aa2b70bdaa9193724c0d831642746b0e6bc1d",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-alt4.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt4.txt"
   },
   {
     "name": "strategy-alt5.txt",
     "author": "flowseal",
-    "description": "Стратегия alt5 из репозитория zapret для Windows",
-    "hash": "c691a5e93a56ad0a93296b3b53bed12c6e5930fc481b9cd766f1d31cd0fa7299",
+    "description": "Стратегия alt5 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "2f2a6f82743a07344e791865c4e1ad4eaa2f3222cc27a930db0606e64eccfa54",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-alt5.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt5.txt"
   },
   {
     "name": "strategy-alt6.txt",
     "author": "flowseal",
-    "description": "Стратегия alt6 из репозитория zapret для Windows",
-    "hash": "e034ba3e9e24c39c85d2e5f2b87ed038c6b312b5e18f92d9537936be4fb7b637",
+    "description": "Стратегия alt6 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "54be77deecdb89d36fa6d26be573edeb053658d60569e1fb5472ddebf198efda",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-alt6.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt6.txt"
   },
   {
     "name": "strategy-alt7.txt",
     "author": "flowseal",
-    "description": "Стратегия alt7 из репозитория zapret для Windows",
-    "hash": "fcf0eb0aa06992858fe909b6a219261721c0f058a3ba0e42021f4893f8099a44",
+    "description": "Стратегия alt7 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "afe7bdbb828d2a5f2a5370313eb49aa28915b1cfd330fc250aa95ce0140cf1ae",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt7.txt"
   },
   {
     "name": "strategy-alt8.txt",
     "author": "flowseal",
-    "description": "Стратегия alt8 из репозитория zapret для Windows",
-    "hash": "464a945315f7e74c16364ff678ed758d01ae5489c80b70cfc84e192f36763a7e",
+    "description": "Стратегия alt8 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "5b9f776b2b9a82142adba93a4bcfc09bc292f2b935deab5e81db0fc0b8260066",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt8.txt"
   },
   {
-    "name": "strategy-alt10.txt",
+    "name": "strategy-alt9.txt",
     "author": "flowseal",
-    "description": "Порт стратегии alt10 от flowseal",
-    "hash": "c45b1acdc2b755749258882d50f7f9d91592d3f9bfb76cdbcba5dc25113df4f0",
+    "description": "Стратегия alt9 из репозитория zapret для Windows (Портирована shlynas(roter)",
+    "hash": "a380fc84366f50110d9ec55554a4e46cf6b240c5f9268455e7d4025c549cfeaf",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt10.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt9.txt"
   },
   {
-    "name": "strategy-alt11.txt",
-    "author": "flowsel(портировал Adwhweu)",
-    "description": "Alt11 из zapret-discord-youtube",
-    "hash": "b71feecaee382e2ac36f601b39cf6ff2cee1b237b74b526a1759a7e81503ed9f",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt11.txt"
-  },
-  {
-    "name": "strategy-fake-tls-auto-alt.txt",
-    "author": "flowseal",
-    "description": "Стратегия fake-tls-auto-alt из репозитория zapret для Windows",
-    "hash": "4ec6586aaca84fae1e19bda65fcbfb241200c369f3a481a7ce3f728b83e109f9",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt.txt"
-  },
-  {
-    "name": "strategy-fake-tls-auto-alt2.txt",
-    "author": "flowseal",
-    "description": "Стратегия fake-tls-auto-alt2 из репозитория zapret для Windows",
-    "hash": "8d8d582fd05a8744a493257b143874485cbac0821db641d972fe79ceea9dd316",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt2.txt"
-  },
-  {
-    "name": "strategy-fake-tls-auto-alt3.txt",
-    "author": "flowseal",
-    "description": "Стратегия fake-tls-auto-alt3 из репозитория zapret для Windows",
-    "hash": "80a6953a0958b1b05ff6035fea32a7072ea5224cd1e0c80ccc5099736dd4a88d",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt3.txt"
-  },
-  {
-    "name": "strategy-general.txt",
-    "author": "flowseal",
-    "description": "Стратегия general из репозитория zapret для Windows",
-    "hash": "0b4b633f5b9b1c9004cd77725501e969d3d46478ddf513f6ed9c1371773e3a76",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general.txt"
-  },
-  {
-    "name": "strategy-simple-fake.txt",
-    "author": "flowseal",
-    "description": "Стратегия simple-fake из репозитория zapret для Windows",
-    "hash": "624ece31612287e57b991814703cbf5f20ccaaa1795d26e9b7c641dad2eb8078",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake.txt"
-  },
-  {
-    "name": "strategy-simple-fake-alt.txt",
-    "author": "flowseal",
-    "description": "Стратегия simple-fake-alt из репозитория zapret для Windows",
-    "hash": "b95982bc02c616a1cd63e4d445a35193fe66dc7c3a5a69a8fec99a169aabc646",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake-alt.txt"
-  },
-  {
-    "name": "strategy-shizapret-port.txt",
-    "author": "sch-izo (Портировал dotFelixan)",
-    "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
-    "hash": "78c5eeb60d3ac33ffba77cc7fea7621c6e0a8dcf04269a13ad10d21ec4d01632",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-port.txt"
-  },
-  {
-    "name": "strategy-shizapret-alt-port.txt",
-    "author": "sch-izo (Портировал dotFelixan)",
-    "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
-    "hash": "aef0cc99d2faa5ce924f66a7d5e164a541f83290a84a9df5c7cc39c161cf2340",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-alt-port.txt"
-  },
-  {
-    "name": "strategy-shizapret-md5sig-port.txt",
-    "author": "sch-izo (Портировал dotFelixan)",
-    "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
-    "hash": "d363840bb9130609ef2fb31051c829c8fb1d13b5d5c7a3a879f65be20f8c7020",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-md5sig-port.txt"
-  },
-  {
-    "name": "strategy-shizapret-dot.txt",
-    "author": "sch-izo (Модифицировал dotFelixan)",
-    "description": "Модифицированная стратегия shizapret",
-    "hash": "1673655ac9d45ac73ff07c2c86a5e022d7b79e67a8692b074a882897149f3975",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-dot.txt"
-  },
-  {
-    "name": "strategy-shizapret-dot-alt.txt",
-    "author": "sch-izo (Модифицировал dotFelixan)",
-    "description": "Стратегия shizapret из репозитория sch-izo/shizapret для Windows",
-    "hash": "6bbccf3d1de45c65e8bcd1e50781705a4fad03cd36cc70b408bc86a4f7b50aec",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-dot-alt.txt"
-  },
-  {
-    "name": "strategy-default-hosts.txt",
+    "name": "strategy-default.txt",
     "author": "zaprett-devs",
     "description": "Стандартная стратегия",
-    "hash": "ccd75ee624219157dde160a4b66f64bec576ca3f0e83052ff9be9befd9e12ca2",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/files/strategies/byedpi/strategy-default-hosts.txt"
-  },
-  {
-    "name": "strategy-discord-fix.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "1f96e6bd9382e8a0692d982a4d1b2e4ca4c839359b08b2036abbfe116f357643",
+    "hash": "590379e0989974af183e432ab38d4ef28b700cb7d37568a63b8a72c71aad1a8f",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-discord-fix.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-default.txt"
   },
   {
     "name": "strategy-discord.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "96020c0431098d23d73819de62bc00816494369decb1cc6a3f627cf7e0382972",
+    "hash": "af7c6432a24dd7b3c3ca6e0ad3b9753d24fd7d7b11baeba0a13255b1bd02f4f3",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-discord.txt"
+  },
+  {
+    "name": "strategy-discord-fix.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "e66cabc5d4b4deb8bf43e2de8b1db243f32f0ad5dee8849fd3874027126d6d49",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-discord-fix.txt"
   },
   {
     "name": "strategy-discordfix-alt.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "ea67326b97cddeb89b5bae4e35be16ad0293f3c4cbea21b3d788f03b178f14ac",
+    "hash": "603d8a16ccfa3009f6bac887802d82a00154c98836ba9e8660c8f0839884094f",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-discordfix-alt.txt"
   },
@@ -211,7 +131,7 @@
     "name": "strategy-discordfix-alt2.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "ce532d388cbcbfb7d7d593b0ee10d3b461c464c74c1d6196c66a4d5cc10421d3",
+    "hash": "c6303df61effb39ad6017af26dd55132be7f392c9f6b1dd5340933d7fbff29f8",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-discordfix-alt2.txt"
   },
@@ -219,15 +139,55 @@
     "name": "strategy-discordfix-mgts.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "0d2a467d93de995ea377e9ae9c05b1ce75f5276e0228cecd1d4602dd66dfae7c",
+    "hash": "f8f7e045527d2b14a41a53c869a79ddb152299b1f2f5a2a8b0ba6fddf369d5f7",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-discordfix-mgts.txt"
+  },
+  {
+    "name": "strategy-fake-tls-auto.txt",
+    "author": "flowseal",
+    "description": "Стратегия fake-tls-auto из репозитория zapret для Windows (Портирована shlynas(roter)",
+    "hash": "24498bebbfba7a52db2c832f17a59536a6f6e412c847a79c9b7b6473625233b6",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto.txt"
+  },
+  {
+    "name": "strategy-fake-tls-auto-alt.txt",
+    "author": "flowseal",
+    "description": "Стратегия fake-tls-auto-alt из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "e30befa93ea70655d1d10dfa00db50a0a43925fcb33be623ccb4f262a8fb8d9e",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt.txt"
+  },
+  {
+    "name": "strategy-fake-tls-auto-alt2.txt",
+    "author": "flowseal",
+    "description": "Стратегия fake-tls-auto-alt2 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "bf05b8442fa94c12e52e410000d3d5287cc266bcc7c8a2ee08b5e6b6c059eb3e",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt2.txt"
+  },
+  {
+    "name": "strategy-fake-tls-auto-alt3.txt",
+    "author": "flowseal",
+    "description": "Стратегия fake-tls-auto-alt3 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "8ab91c6d680771de2d69150532339a28d13b97fd9e5c3fc5283f71668ab2d438",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt3.txt"
+  },
+  {
+    "name": "strategy-fake-tls-auto-alt3-roblox.txt",
+    "author": "flowseal, модифицировал Danil7726",
+    "description": "Стратегия fake-tls-auto-alt3 из репозитория zapret для Windows, модифицированная для обхода блокировки Roblox",
+    "hash": "7ee98b12d80ccfc93a47c1475941ff70b319e4f574232a40b25151ff914d4bb8",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt3-roblox.txt"
   },
   {
     "name": "strategy-fix-v1.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "44c27275a4bb4964aed0cc6df50f83e423fe349d9e7771aebb8371feeef362fc",
+    "hash": "ae7037bc6557909fe9ab869b210c91a892e7b7db005acefd365c089246079b61",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fix-v1.txt"
   },
@@ -235,7 +195,7 @@
     "name": "strategy-fix-v2.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "500832d451902ab8753c0f3afbf78be0487409b4647dea62a1a5d995132e22a1",
+    "hash": "cef08516fc680b150c9990edfcbef9263dd18fd1722c9caf31683acf6d4286f7",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fix-v2.txt"
   },
@@ -243,15 +203,39 @@
     "name": "strategy-fix-v3.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "cf72b490dddba5cb5cd3e4041f94d0df5f27bae52c494acff00dfedd77377a58",
+    "hash": "00956a7e422d2ae46e93fe0fd4350de2ee9f3b2e92416388a75654f458a8e16f",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fix-v3.txt"
+  },
+  {
+    "name": "strategy-general.txt",
+    "author": "flowseal",
+    "description": "Стратегия general из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "ac609cc23e4234ec9cdde4886fc0da9c851295acdc254f33f07f5454e424d5c8",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general.txt"
+  },
+  {
+    "name": "strategy-general-fake-tls-auto.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "59a78410dc4bc628e2134f75c22b41c1ee0c7979614dd2efc351c785fc59534b",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto.txt"
+  },
+  {
+    "name": "strategy-general-fake-tls-auto-alt.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "1102fa4a112b1fc3327d2946b241ae003aca812d8038f91bcf9cafdb7344cd6a",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto-alt.txt"
   },
   {
     "name": "strategy-general-fake-tls-auto-alt-2.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "bc058713dac445fe7d373fa8ff7966cbfb6c5b58a7324147790b7c308e6ae3e1",
+    "hash": "180311b2565e74276c17998db4f36b6c89b13d605d47405b3fb41ffc53cee42e",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto-alt-2.txt"
   },
@@ -259,71 +243,23 @@
     "name": "strategy-general-fake-tls-auto-alt-3.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "bc058713dac445fe7d373fa8ff7966cbfb6c5b58a7324147790b7c308e6ae3e1",
+    "hash": "180311b2565e74276c17998db4f36b6c89b13d605d47405b3fb41ffc53cee42e",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto-alt-3.txt"
   },
   {
-    "name": "strategy-general-fake-tls-auto-alt.txt",
+    "name": "strategy-generalfix.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "2ecdbf81cf2b03ad6ca1d8b1c205e50942a9f9999b978728fd2795990c109918",
+    "hash": "e66cabc5d4b4deb8bf43e2de8b1db243f32f0ad5dee8849fd3874027126d6d49",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto-alt.txt"
-  },
-  {
-    "name": "strategy-general-fake-tls-auto.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "445f3c80908bfae382b2482ddd6ef8d58c6e73464fc752e81493021df09cd878",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto.txt"
-  },
-  {
-    "name": "strategy-general-mgts.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "f9243a48141e1eed825dcb6f5168f47a0f7dd7df9495e12aca33be3581e9a9b8",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-mgts.txt"
-  },
-  {
-    "name": "strategy-general-mgts2.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "320840a5aaeddc4383a0cbc35b6178f5daa795f55b3290acd3c276d9e4aed042",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-mgts2.txt"
-  },
-  {
-    "name": "strategy-general-old.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "6a4111bb8f73927dee6bbe401d9a096d1c1e76f7c6178054e8ffd6da994fd159",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-old.txt"
-  },
-  {
-    "name": "strategy-general-simple-fake-alt.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "86eae6bf1156b655f2f0a6117223d5c61c55ae2c652ad514e5b9ab3fe9d56c49",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-simple-fake-alt.txt"
-  },
-  {
-    "name": "strategy-general-simple-fake.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "0d76319f92b97a7834e0b444c906bff66a772f53cd441809f99fa83a32a41b1b",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-simple-fake.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-generalfix.txt"
   },
   {
     "name": "strategy-generalfix-alt.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "4f0dd76d0d64046a4c547071069fee0daea9f1ac277223c428a57c72893aaa59",
+    "hash": "54907f5a0a14c404d108b4ea60dcc14c3074979df5266489fd6f30676ddd6621",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-generalfix-alt.txt"
   },
@@ -331,7 +267,7 @@
     "name": "strategy-generalfix-alt3.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "a62cd7f510f33797fa85a4d1d14fdfb043687e986a9d0621bb754b6a24265f8d",
+    "hash": "5ecf98c35f189b266a44003626315d70eee8b3dd7bc908e9d7e6ad5d4d9f2fa6",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-generalfix-alt3.txt"
   },
@@ -339,23 +275,55 @@
     "name": "strategy-generalfix-alt4.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "bff5107407e62a94ead999ff0268de33e2ca015595e16c759eb88c534f73d96d",
+    "hash": "55e10782a4acca424a399676fe38bf846248d45f6384100b009b971a631c8786",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-generalfix-alt4.txt"
   },
   {
-    "name": "strategy-generalfix.txt",
+    "name": "strategy-general-mgts.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "1f96e6bd9382e8a0692d982a4d1b2e4ca4c839359b08b2036abbfe116f357643",
+    "hash": "a71352dba61af60df26bd87312f3b0ab5f17534aaab60888e69f3ca9faf0c2da",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-generalfix.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-mgts.txt"
+  },
+  {
+    "name": "strategy-general-mgts2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "4450af6f73962319016822f3346834bb26f22f8aad6eb5a5d56ed2680def3a7e",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-mgts2.txt"
+  },
+  {
+    "name": "strategy-general-old.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "a0118b288ce9d46a934faffee2a072b2b08837273581d38b0b1ff19bafa5b6eb",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-old.txt"
+  },
+  {
+    "name": "strategy-general-simple-fake.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "719b0082120c615eb70d8c8d6debb3a4f8879030d431dde15b8b65835f85ad58",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-simple-fake.txt"
+  },
+  {
+    "name": "strategy-general-simple-fake-alt.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "a87ffcce7af6bb1a81b93eccf2501f41ea90a0877ee72ad27ac3f578736f113f",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-simple-fake-alt.txt"
   },
   {
     "name": "strategy-preset-russia.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "28585e6682890453a18825391779886c92d6a8ba72941ed39b349e93a9ce4070",
+    "hash": "e62231808bc8d5307a4de7d709494cf2462c878c3ddf60f76138246fdc78ebb1",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-preset-russia.txt"
   },
@@ -363,15 +331,95 @@
     "name": "strategy-russiafix.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "7fc8d107f0291926f8337ecf3c3075da1b18e6451e44fd8be836901777373011",
+    "hash": "d1d041f3f65121ad9b3c84f5c1eb9f2c628936828fc9389df950a6688d17357f",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-russiafix.txt"
+  },
+  {
+    "name": "strategy-shizapret-alt-port.txt",
+    "author": "sch-izo (Портировал dotFelixan)",
+    "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
+    "hash": "331871c10cd9d916f10464122bce3880b4f411c42f749d80e10a5b8a07390585",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-alt-port.txt"
+  },
+  {
+    "name": "strategy-shizapret-dot.txt",
+    "author": "sch-izo (Модифицировал dotFelixan)",
+    "description": "Модифицированная стратегия shizapret",
+    "hash": "9d4c5fe1547e072d15de4da6683a38309872f9705cddd69b97f1b8696d10c640",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-dot.txt"
+  },
+  {
+    "name": "strategy-shizapret-dot-alt.txt",
+    "author": "sch-izo (Модифицировал dotFelixan)",
+    "description": "Стратегия shizapret из репозитория sch-izo/shizapret для Windows",
+    "hash": "f6dcda38ea4ed246f932c0a3b4fef2f6b575f383082a55266537ba4801274529",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-dot-alt.txt"
+  },
+  {
+    "name": "strategy-shizapret-md5sig-port.txt",
+    "author": "sch-izo (Портировал dotFelixan)",
+    "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
+    "hash": "f1ee768b8744a3663eefaaa318530cd8d7e2ef904a132dc93135bc17481ca673",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-md5sig-port.txt"
+  },
+  {
+    "name": "strategy-shizapret-port.txt",
+    "author": "sch-izo (Портировал dotFelixan)",
+    "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
+    "hash": "6a40213eadaf648dcf31249a9b391c835e03d0e8e8115551bdd24240215f600a",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-shizapret-port.txt"
+  },
+  {
+    "name": "strategy-simple-fake.txt",
+    "author": "flowseal",
+    "description": "Стратегия simple-fake из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "e4bc52db7ef737a5d5198bfb6f6f4d0e477160d6c2caba232108d5aacaaeb8d6",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake.txt"
+  },
+  {
+    "name": "strategy-simple-fake-alt.txt",
+    "author": "flowseal",
+    "description": "Стратегия simple-fake-alt из репозитория zapret для Windows (Обновлена shlynas(roter)",
+    "hash": "5f490aac87c1ab4a99bbafe997aa2039577dd92e38bf5e88f5a88f9027407376",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake-alt.txt"
+  },
+  {
+    "name": "strategy-simple-fake-alt2.txt",
+    "author": "flowseal",
+    "description": "Стратегия simple-fake-alt2 из репозитория zapret для Windows (Портирована shlynas(roter)",
+    "hash": "fa367dd028414cfbc783be15e33991442286e3f28696c1143419a3928b9bf473",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake-alt2.txt"
+  },
+  {
+    "name": "strategy-ultimatefix.txt",
+    "author": "roman5432990",
+    "description": "стратегии от автора Роман (портировал PixelSymbols)",
+    "hash": "04674ddf9d04ae6f2670e1d9bbd56f43c344abe99b055593769b0140f9bf5163",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix.txt"
+  },
+  {
+    "name": "strategy-ultimatefix-alt.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "b94d32a21821c63ecf98c6dc31383114cbe2d7eb29bf62064188a4a0855ba3e5",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt.txt"
   },
   {
     "name": "strategy-ultimatefix-alt-extended.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "d01d9fcf0444424485414461d823c6eed43df957ff0a6fa1146cb27954400b60",
+    "hash": "04674ddf9d04ae6f2670e1d9bbd56f43c344abe99b055593769b0140f9bf5163",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-extended.txt"
   },
@@ -379,7 +427,7 @@
     "name": "strategy-ultimatefix-alt-v10.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "55bc40098bc2f6d2947ed69e7240928600d06958263bda07bf7f999c8dd85efa",
+    "hash": "209a6f801ad3b1f1af4ecc0c954dd9d55ffda87a57fe4672384fd92e3924de39",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v10.txt"
   },
@@ -387,7 +435,7 @@
     "name": "strategy-ultimatefix-alt-v2.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "4d0fd3956fa396e5da8eeb72ffcc72a297e67046154c2fdde88177d9874bfd8f",
+    "hash": "54fc481288bac4b41b783241eccf3ece192282a759b41248d7a68042333e2ca6",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v2.txt"
   },
@@ -395,7 +443,7 @@
     "name": "strategy-ultimatefix-alt-v3.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "08cd4d66af9937bab956b504ddd751ef7f84b0d99604d18693668bd90c09f7bb",
+    "hash": "975b5376659d9939a53b5498962f9c8045a4e22465c4babb63a5ed19f2ba8a6f",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v3.txt"
   },
@@ -403,7 +451,7 @@
     "name": "strategy-ultimatefix-alt-v4.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "e1e36c0cc6aa3d78d45290cf5a1cb7d389dadbd9e65d3018f02c0d40734f8f87",
+    "hash": "79d1383e46d579b7de8dbb90bc0b33e291f977fca2edfe9c294ef222a188c7db",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v4.txt"
   },
@@ -411,7 +459,7 @@
     "name": "strategy-ultimatefix-alt-v5.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "08341e21fba2ef999a1cec93e92e61b06659d0aa3acc5a20e54bf9101586aef8",
+    "hash": "2ce73f86f38bdaa450965ebe1d3292d0ef68db9c47b34c05327a25099dd4ba2b",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v5.txt"
   },
@@ -419,7 +467,7 @@
     "name": "strategy-ultimatefix-alt-v6.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "658e2045ca4b4647d58fafe171c19c30fbf9abbc7e67a81978aab6ed2ef488fb",
+    "hash": "05a4d30bfebffe9c4ecd39057e06cf24f5f4b5fb1df489b948456ec38c990687",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v6.txt"
   },
@@ -427,7 +475,7 @@
     "name": "strategy-ultimatefix-alt-v7.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "413c025aaa67b27bd2c893d7fe62faab14d263ff2e8051ba943ac0c2745d9b2a",
+    "hash": "778f2fa0d1c0c669d3ac52c73dba40c66d814718bd24c7a05956cc4a995b717a",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v7.txt"
   },
@@ -435,7 +483,7 @@
     "name": "strategy-ultimatefix-alt-v8.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "99faab2a3aea4e49652d98c4cd7df75fd444e6705a23551a4eb8657bfbb954ab",
+    "hash": "f0783dcb5699f624d01e91173d87642f654ac3a5f6757ee2b72847ed1de930b7",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v8.txt"
   },
@@ -443,31 +491,31 @@
     "name": "strategy-ultimatefix-alt-v9.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "7a2190333d4c9440aabbf7efaa34b2ea834375b82dfab989f5806224cd8799fd",
+    "hash": "d0a207f3567ca1b06131ed4c0d02e2c1b5fb1959fc2bc5f739086e520b655010",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt-v9.txt"
-  },
-  {
-    "name": "strategy-ultimatefix-alt.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "09b523ca4782ab717b20b558e1ee9ba7abfcae3a8a07a0b466769003ffb84f9f",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-alt.txt"
   },
   {
     "name": "strategy-ultimatefix-mgts.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "00f594e6e59d763800a36f473a1ade05303c8f9145884d10325db76ef38fab80",
+    "hash": "e9fd8395bf73bd3fc0b695979d571ae19bdf52a605a066a409da3268d9c50feb",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-mgts.txt"
+  },
+  {
+    "name": "strategy-ultimatefix-universal.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "ed26639b2394e1c6f50ac8ea5a93ad350ef5d48e3d12403e84b7bf03b51f7848",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-universal.txt"
   },
   {
     "name": "strategy-ultimatefix-universal-v2.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "64ecc4d34832219c2a77b751552dc13d9aa45e554b70bd8569f1c17f8710e8e5",
+    "hash": "c0a04df2a19822b1a34a19b49cb2aae86a0d60b22f4059c431738f5392f1ea53",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-universal-v2.txt"
   },
@@ -475,96 +523,16 @@
     "name": "strategy-ultimatefix-universal-v3.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "3955600504611c00dc2ab56f1655b456dd8e526aa17cd1f38bcb18400b037a11",
+    "hash": "68d991858d0c1a0525abb42a8229930129cb6291217d7ebc6f0c54faad143cd0",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-universal-v3.txt"
-  },
-  {
-    "name": "strategy-ultimatefix-universal.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "872e261cd89318d044099dd3ac75f7bca15f23177314de2fa768c7940c6c5b16",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix-universal.txt"
-  },
-  {
-    "name": "strategy-ultimatefix.txt",
-    "author": "Snowy-Fluffy",
-    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "d01d9fcf0444424485414461d823c6eed43df957ff0a6fa1146cb27954400b60",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix.txt"
   },
   {
     "name": "strategy-youtubefix-alt.txt",
     "author": "Snowy-Fluffy",
     "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-    "hash": "1e03e278e1592a546e6b9a7c76c173e674b6b7ec5041fa269e1acf8e2b8b14e6",
+    "hash": "00f545b3e72a61be9b172b1de85e8c4853f5d2201240870b6360904b008a4746",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-youtubefix-alt.txt"
-  },
-  {
-    "name": "strategy-ultimatefix.txt",
-    "author": "roman5432990",
-    "description": "стратегии от автора Роман (портировал PixelSymbols)",
-    "hash": "ac9623e9f8962c1fa7c3ca9967289682ab3ff5ddfade96964d8943bee8bc8066",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-ultimatefix.txt"
-  },
-  {
-    "name": "strategy-youtube-fix-mts.txt",
-    "author": "g4me_ART",
-    "description": "стратегии от автора Mag4me_ART (портировал PixelSymbols)",
-    "hash": "a742e1485ec4f30da075602d4659e3504e754e817b2d0f1550b58b8e1e10e4fe",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-youtube-fix-mts.txt"
-  },
-  {
-    "name": "strategy-test-speed-1.txt",
-    "author": "Владимир",
-    "description": "Порт стратегии Владимира (портировал HelloGames_.)",
-    "hash": "c48a774d6bc48becf4959b245641953b697fa8da8af61608db7c49bfb40726ac",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-test-speed-1.txt"
-  },
-  {
-    "name": "strategy-yt-ds-r34.txt",
-    "author": "Tomon one",
-    "description": "Порт стратегии Tomon one (портировал HelloGames_.)",
-    "hash": "e9c0fad6d15a5f32e12079fcfb3898f0e53b27a8f318def4d38f9848a52442f3",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-yt-ds-r34.txt"
-  },
-  {
-    "name": "strategy-roblox.txt",
-    "author": "gorez polar",
-    "description": "Порт стратегии gorez polar (портировал HelloGames_.)",
-    "hash": "1288d9f7dd24b7693ead8a768bbc94c2847138cc065f6999cff79529f409f0e7",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-roblox.txt"
-  },
-  {
-    "name": "strategy-ds.txt",
-    "author": "Crazry Chel",
-    "description": "Порт стратегии Crazy Chel (портировал HelloGames_.)",
-    "hash": "50f845055681ae278ad352a90f9fd3eaaf23f1ab9ec39e980caaa117f017308f",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-ds.txt"
-  },
-  {
-    "name": "strategy-test-speed-2.txt",
-    "author": "Роман Михневич",
-    "description": "Порт стратегии Романа (портировал HelloGames_.)",
-    "hash": "9d344fde713d9b4cbcb6d993fb25a43e28f92ce21dac7d2b0ce4a5b9699435f5",
-    "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-test-speed-2.txt"
-  },
-  {
-    "name": "strategy-alt2-roblox.txt",
-    "author": "Hellogames_.",
-    "description": "ALT 2 с обходом для роблокса",
-    "hash": "fec1980eb72294ef28b02c639b727eac6eb78fdd4c9b492db5804c9e8c56c168",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt2-roblox.txt"
   }
 ]

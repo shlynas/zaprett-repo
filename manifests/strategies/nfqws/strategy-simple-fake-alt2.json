@@ -1,18 +1,19 @@
 {
   "schema": 1,
-  "id": "strategy-fake-tls-auto-alt3",
-  "name": "strategy-fake-tls-auto-alt3",
+  "id": "strategy-simple-fake-alt2",
+  "name": "strategy-simple-fake-alt2",
   "version": "1.0.0",
   "author": "flowseal",
-  "description": "Стратегия fake-tls-auto-alt3 из репозитория zapret для Windows (Обновлена shlynas(roter)",
+  "description": "Стратегия simple-fake-alt2 из репозитория zapret для Windows (Портирована shlynas(roter)",
   "dependencies": [
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json",
     "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
   ],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-fake-tls-auto-alt3.txt",
-    "sha256": "8ab91c6d680771de2d69150532339a28d13b97fd9e5c3fc5283f71668ab2d438"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-simple-fake-alt2.txt",
+    "sha256": "fa367dd028414cfbc783be15e33991442286e3f28696c1143419a3928b9bf473"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "strategy-alt9",
+  "name": "strategy-alt9",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "Стратегия alt9 из репозитория zapret для Windows (Портирована shlynas(roter)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt9.txt",
+    "sha256": "a380fc84366f50110d9ec55554a4e46cf6b240c5f9268455e7d4025c549cfeaf"
+  }
+}

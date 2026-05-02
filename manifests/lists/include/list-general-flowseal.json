@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "list-general-flowseal",
+  "name": "list-general-flowseal",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "list-general из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-general-flowseal.txt",
+    "sha256": "e74fbb3325933c32546402b28d0eb592efd39fa7e2746b1f2ede26f62d4a2432"
+  }
+}
