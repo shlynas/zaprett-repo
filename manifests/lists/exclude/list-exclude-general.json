@@ -7,7 +7,7 @@
   "description": "Общие домены для черного списка (Обновлён shlynas(roter)",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-general.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-general.txt",
     "sha256": "398eb56c4482ca83f17a98782084d538101f6daee6785ea8017d9906c0043430"
   }
 }

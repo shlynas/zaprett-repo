@@ -7,7 +7,7 @@
   "description": "Домены whatsapp (отправляет сообщения не сразу)",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-whatsapp.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-whatsapp.txt",
     "sha256": "e2731832897c03f06df374872e0d8193cea868e448d3c5571565ef9788cba196"
   }
 }

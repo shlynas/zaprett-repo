@@ -6,12 +6,12 @@
   "author": "flowseal",
   "description": "Стратегия alt8 из репозитория zapret для Windows (Обновлена shlynas(roter)",
   "dependencies": [
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_max_ru.json"
   ],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt8.txt",
-    "sha256": "5b9f776b2b9a82142adba93a4bcfc09bc292f2b935deab5e81db0fc0b8260066"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-alt8.txt",
+    "sha256": "84a7d6a4bd61d47bcb7af01b1330ce6c262749a4496d0a9815fcf7ba7dbf9e6c"
   }
 }

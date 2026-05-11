@@ -6,15 +6,15 @@
   "author": "flowseal",
   "description": "Порт стратегии alt10 от flowseal (Обновлена shlynas(roter)",
   "dependencies": [
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_4pda_to.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/stun.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_4pda_to.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_max_ru.json"
   ],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt10.txt",
-    "sha256": "ac1a3a50b747892f69b2a476a7b641eea22a2dafc01ae23d2e5f35768656498e"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-alt10.txt",
+    "sha256": "8441ecc4fd08026e005ebca7413f55059bb98556cf1d32358ecae08ae102caa1"
   }
 }

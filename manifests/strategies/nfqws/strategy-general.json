@@ -6,13 +6,13 @@
   "author": "flowseal",
   "description": "Стратегия general из репозитория zapret для Windows (Обновлена shlynas(roter)",
   "dependencies": [
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_dbankcloud_ru.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
-    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_4pda_to.json"
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_4pda_to.json"
   ],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general.txt",
-    "sha256": "ac609cc23e4234ec9cdde4886fc0da9c851295acdc254f33f07f5454e424d5c8"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-general.txt",
+    "sha256": "be61a9bfe911d9aa1391edd7b6ee29a27492291015e0ccec67a5c7d88ffb432e"
   }
 }

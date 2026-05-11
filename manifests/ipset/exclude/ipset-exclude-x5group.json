@@ -7,7 +7,7 @@
   "description": "Ipset'ы для чёрного списка",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/exclude/ipset-exclude-x5group.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/exclude/ipset-exclude-x5group.txt",
     "sha256": "a34a1bc0976fb76674f5de78565d42bc340b8d4f42bcdb0f2d28b32c37bb8bba"
   }
 }

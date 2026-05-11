@@ -5,7 +5,7 @@
     "author": "zaprett-devs",
     "hash": "106714aed888f39b5f7b5342447a3aca5d06eaeda7b95d9995f0cffdedf696c3",
     "type": "ipset",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-cloudflare.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/include/ipset-cloudflare.txt"
   },
   {
     "name": "ipset-roblox.txt",
@@ -13,7 +13,7 @@
     "author": "@mewmrow",
     "hash": "9b35fd1eef1cce9ef3fe264f90a904c39b469f43b883a6c509a87039b1d39394",
     "type": "ipset",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/include/ipset-roblox.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/include/ipset-roblox.txt"
   },
   {
     "name": "ipset-exclude-yandex.txt",
@@ -21,7 +21,7 @@
     "author": "@mewmrow",
     "hash": "955bd7c2e0d935e6296c291d28d01a5a43f6f15c4e0adffdec1759ef7233442a",
     "type": "ipset_exclude",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/exclude/ipset-exclude-yandex.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/exclude/ipset-exclude-yandex.txt"
   },
   {
     "name": "ipset-exclude-x5group.txt",
@@ -29,7 +29,7 @@
     "author": "@mewmrow",
     "hash": "a34a1bc0976fb76674f5de78565d42bc340b8d4f42bcdb0f2d28b32c37bb8bba",
     "type": "ipset_exclude",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/exclude/ipset-exclude-x5group.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/exclude/ipset-exclude-x5group.txt"
   },
   {
     "name": "ipset-exclude-gosuslugi.txt",
@@ -37,7 +37,7 @@
     "author": "@mewmrow",
     "hash": "351e4c069ffb7a92e570589eba85a314a62d6895ee22ca4f40d80183ed8fdfe1",
     "type": "ipset_exclude",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/exclude/ipset-exclude-gosuslugi.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/exclude/ipset-exclude-gosuslugi.txt"
   },
   {
     "name": "ipset-telegram.txt",
@@ -45,7 +45,7 @@
     "author": "@mewmrow",
     "hash": "bf309daeaed7bc8ece6cd8321c0b88058b34e4214240610e8075c0b93924b62b",
     "type": "ipset",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/include/ipset-telegram.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/include/ipset-telegram.txt"
   },
   {
     "name": "ipset-whatsapp.txt",
@@ -53,7 +53,7 @@
     "author": "@mewmrow",
     "hash": "7707e9b55f7e094d51b16c5cd1cb0ecb6f18d0fbea1690ba7886c427535c4a50",
     "type": "ipset",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/include/ipset-whatsapp.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/include/ipset-whatsapp.txt"
   },
   {
     "name": "ipset-aws.txt",
@@ -61,14 +61,23 @@
     "author": "Harikso",
     "hash": "0a5ce87a9a0b96fa4cb1d4f9fb8e1eef43e59881d9ec527d41ff00f1a271e0d3",
     "type": "ipset",
-    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/files/ipset/include/ipset-aws.txt"
+    "url": "https://github.com/shlynas/zaprett-repo/raw/refs/heads/mr/files/ipset/include/ipset-aws.txt"
   },
   {
     "name": "ipset-all.txt",
-    "description": "Список IP из flowseal/zapret-discord-youtube (Перенёс shlynas(roter))",
+    "description": "Список IP из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
     "author": "flowseal",
     "hash": "0b011ca8305266a90ad32e17068dba862969323be00f6498c2359af8b00178ac",
     "type": "ipset",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-all.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/include/ipset-all.txt"
+  },
+  {
+    "name": "ipset-exclude.txt",
+    "description": "Список IP из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
+    "author": "flowseal",
+    "hash": "36159ca57996843462cccef23b576cb461dfaa8738e2ab01807db5a6c1746725",
+    "type": "ipset",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/exclude/ipset-exclude.txt"
   }
+]
 ]

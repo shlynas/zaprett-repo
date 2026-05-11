@@ -7,7 +7,7 @@
   "description": "Порт стратегии Crazy Chel (портировал HelloGames_.)",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-ds.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/byedpi/strategy-ds.txt",
     "sha256": "50f845055681ae278ad352a90f9fd3eaaf23f1ab9ec39e980caaa117f017308f"
   }
 }

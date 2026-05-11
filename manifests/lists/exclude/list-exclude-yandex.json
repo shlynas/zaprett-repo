@@ -7,7 +7,7 @@
   "description": "Яндекс домены для черного списка",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-yandex.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-yandex.txt",
     "sha256": "05b6a5674ec19a6fd6d54dfa8d0598e600af63ab696932825de72e601574ead5"
   }
 }

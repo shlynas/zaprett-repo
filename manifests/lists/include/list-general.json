@@ -7,7 +7,7 @@
   "description": "Общие домены",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-general.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-general.txt",
     "sha256": "1ccd80f388d78c28cf965bc42b29d9e4139210ff7e71004297ec1421661f978f"
   }
 }

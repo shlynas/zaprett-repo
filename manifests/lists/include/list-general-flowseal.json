@@ -7,7 +7,7 @@
   "description": "list-general из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-general-flowseal.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-general-flowseal.txt",
     "sha256": "e74fbb3325933c32546402b28d0eb592efd39fa7e2746b1f2ede26f62d4a2432"
   }
 }

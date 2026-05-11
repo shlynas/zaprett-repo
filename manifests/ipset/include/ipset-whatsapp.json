@@ -7,7 +7,7 @@
   "description": "Ipset'ы для работы whatsapp (отправляет сообщения не сразу)",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-whatsapp.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/include/ipset-whatsapp.txt",
     "sha256": "7707e9b55f7e094d51b16c5cd1cb0ecb6f18d0fbea1690ba7886c427535c4a50"
   }
 }

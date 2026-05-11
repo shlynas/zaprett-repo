@@ -7,7 +7,7 @@
   "description": "Binary artifact: quic_initial_dbankcloud_ru",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/quic_initial_dbankcloud_ru.bin",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/bin/quic_initial_dbankcloud_ru.bin",
     "sha256": "f7a1c1cffc8f65bd47412b7ca5588653d21eec916bb79203c9914890a62874df"
   }
 }

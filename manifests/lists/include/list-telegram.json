@@ -7,7 +7,7 @@
   "description": "Домены Telegram",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-telegram.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-telegram.txt",
     "sha256": "63a3ff6a106c142138b3bd65609fdbd9f44533c54c6689e5cf2a659826a5c777"
   }
 }

@@ -7,7 +7,7 @@
   "description": "Ipset CloudFlare",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-cloudflare.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/include/ipset-cloudflare.txt",
     "sha256": "106714aed888f39b5f7b5342447a3aca5d06eaeda7b95d9995f0cffdedf696c3"
   }
 }

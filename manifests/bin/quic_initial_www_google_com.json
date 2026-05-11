@@ -7,7 +7,7 @@
   "description": "Binary artifact: quic_initial_www_google_com",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/quic_initial_www_google_com.bin",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/bin/quic_initial_www_google_com.bin",
     "sha256": "f4589c57749f956bb30538197a521d7005f8b0a8723b4707e72405e51ddac50a"
   }
 }

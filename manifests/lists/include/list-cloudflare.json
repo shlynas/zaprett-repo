@@ -7,7 +7,7 @@
   "description": "Домены Cloudflare",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-cloudflare.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-cloudflare.txt",
     "sha256": "243458a980b1762033e565fb339dc7f29c4dccb2f74a035e1bd7bb796e6446c6"
   }
 }

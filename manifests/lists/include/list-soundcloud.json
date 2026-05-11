@@ -7,7 +7,7 @@
   "description": "Домены SoundCloud",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-soundcloud.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-soundcloud.txt",
     "sha256": "118ffd9f58e3beb284c99caed9780bf913a992f5b8b2180ae386cab7134f3e81"
   }
 }

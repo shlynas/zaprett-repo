@@ -7,7 +7,7 @@
   "description": "X5group домены для черного списка",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-x5group.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-x5group.txt",
     "sha256": "eb4375e6ebd1f3503a78df449e283b0091a063567df51ff0c6e4bb18453ac09d"
   }
 }

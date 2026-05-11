@@ -7,7 +7,7 @@
   "description": "Домены Twitter",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-twitter.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-twitter.txt",
     "sha256": "979d5471c125de3c3435a3640f12fb24f0986fea162ddef90a4d9e6e2f53f9e3"
   }
 }

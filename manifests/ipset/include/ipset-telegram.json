@@ -7,7 +7,7 @@
   "description": "Ipset'ы для нормальной работы Telegram",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-telegram.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/include/ipset-telegram.txt",
     "sha256": "bf309daeaed7bc8ece6cd8321c0b88058b34e4214240610e8075c0b93924b62b"
   }
 }

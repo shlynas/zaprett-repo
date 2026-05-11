@@ -7,7 +7,7 @@
   "description": "Ipset Roblox",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/ipset-roblox.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/ipset/include/ipset-roblox.txt",
     "sha256": "9b35fd1eef1cce9ef3fe264f90a904c39b469f43b883a6c509a87039b1d39394"
   }
 }

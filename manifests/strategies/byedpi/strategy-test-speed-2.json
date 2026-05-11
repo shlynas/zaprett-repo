@@ -7,7 +7,7 @@
   "description": "Порт стратегии Романа (портировал HelloGames_.)",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-test-speed-2.txt",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/byedpi/strategy-test-speed-2.txt",
     "sha256": "9d344fde713d9b4cbcb6d993fb25a43e28f92ce21dac7d2b0ce4a5b9699435f5"
   }
 }

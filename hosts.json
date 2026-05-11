@@ -5,7 +5,7 @@
     "author": "zaprett-devs",
     "hash": "c23327c320866a95db797603d2ab4a60e4f4f750c2f0f9d0568314327941418f",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-youtube.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-youtube.txt"
   },
   {
     "name": "list-discord.txt",
@@ -13,7 +13,7 @@
     "author": "zaprett-devs",
     "hash": "13a60977a4b6fe0fd053bab4a8f3c73790ce20ea5eedc6eb788b56d8431a0e9a",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-discord.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-discord.txt"
   },
   {
     "name": "list-extended.txt",
@@ -21,7 +21,7 @@
     "author": "zaprett-devs",
     "hash": "5c7e12310342a89d1aa69afc00f46c17d10d261790c5e029a83cc0c498fb148a",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-extended.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-extended.txt"
   },
   {
     "name": "list-general.txt",
@@ -29,7 +29,7 @@
     "author": "zaprett-devs",
     "hash": "1ccd80f388d78c28cf965bc42b29d9e4139210ff7e71004297ec1421661f978f",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-general.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-general.txt"
   },
   {
     "name": "list-cloudflare.txt",
@@ -37,7 +37,7 @@
     "author": "zaprett-devs",
     "hash": "243458a980b1762033e565fb339dc7f29c4dccb2f74a035e1bd7bb796e6446c6",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-cloudflare.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-cloudflare.txt"
   },
   {
     "name": "list-matrix.txt",
@@ -45,7 +45,7 @@
     "author": "zaprett-devs",
     "hash": "832b87a595b6cc959f1621b571dd46c6f844ef262e56d3930b98d3e4336a14df",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-matrix.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-matrix.txt"
   },
   {
     "name": "list-rutracker.txt",
@@ -53,7 +53,7 @@
     "author": "zaprett-devs",
     "hash": "82f953b44eda73bf3319c99e8cfab572ce498d68dc7692ad0bcdae3b8256c9ed",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-rutracker.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-rutracker.txt"
   },
   {
     "name": "list-soundcloud.txt",
@@ -61,7 +61,7 @@
     "author": "zaprett-devs",
     "hash": "118ffd9f58e3beb284c99caed9780bf913a992f5b8b2180ae386cab7134f3e81",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-soundcloud.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-soundcloud.txt"
   },
   {
     "name": "list-telegram.txt",
@@ -69,7 +69,7 @@
     "author": "zaprett-devs & @mewmrow & hellogames_.",
     "hash": "63a3ff6a106c142138b3bd65609fdbd9f44533c54c6689e5cf2a659826a5c777",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-telegram.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-telegram.txt"
   },
   {
     "name": "list-twitter.txt",
@@ -77,7 +77,7 @@
     "author": "zaprett-devs",
     "hash": "979d5471c125de3c3435a3640f12fb24f0986fea162ddef90a4d9e6e2f53f9e3",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-twitter.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-twitter.txt"
   },
   {
     "name": "list-exclude-general.txt",
@@ -85,7 +85,7 @@
     "description": "Общие домены для черного списка (Обновлён shlynas(roter)",
     "hash": "398eb56c4482ca83f17a98782084d538101f6daee6785ea8017d9906c0043430",
     "type": "list_exclude",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-general.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-general.txt"
   },
   {
     "name": "list-exclude-tiktok.txt",
@@ -93,7 +93,7 @@
     "description": "Домены TikTok для черного списка",
     "hash": "180a32689ed04ebde1163428289334f9e0243052cfe6e33435c4e279a3fc03b7",
     "type": "list_exclude",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-tiktok.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-tiktok.txt"
   },
   {
     "name": "list-meta-services.txt",
@@ -101,7 +101,7 @@
     "description": "Домены Meta (Facebook, Instagram и т.п.)",
     "hash": "e14376ee40c95f479ac33d89c7f091e5842764185b2aa5a94c21b2a5bb641c78",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-meta-services.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-meta-services.txt"
   },
   {
     "name": "list-exclude-yandex.txt",
@@ -109,7 +109,7 @@
     "description": "Яндекс домены для черного списка",
     "hash": "05b6a5674ec19a6fd6d54dfa8d0598e600af63ab696932825de72e601574ead5",
     "type": "list_exclude",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-yandex.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-yandex.txt"
   },
   {
     "name": "list-exclude-x5group.txt",
@@ -117,7 +117,7 @@
     "description": "X5group домены для черного списка",
     "hash": "eb4375e6ebd1f3503a78df449e283b0091a063567df51ff0c6e4bb18453ac09d",
     "type": "list_exclude",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-x5group.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-x5group.txt"
   },
   {
     "name": "list-exclude-gosuslugi.txt",
@@ -125,7 +125,7 @@
     "description": "Домены госуслуг для черного списка",
     "hash": "a85a41d665baf2a9a589ec987338fd3985dfe3e1be195d1da032052d9494beae",
     "type": "list_exclude",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/list-exclude-gosuslugi.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/exclude/list-exclude-gosuslugi.txt"
   },
   {
     "name": "list-whatsapp.txt",
@@ -133,7 +133,7 @@
     "description": "Домены whatsapp (отправляет сообщения не сразу)",
     "hash": "e2731832897c03f06df374872e0d8193cea868e448d3c5571565ef9788cba196",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-whatsapp.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-whatsapp.txt"
   },
   {
     "name": "list-roblox.txt",
@@ -141,7 +141,7 @@
     "description": "Домены Roblox",
     "hash": "bf2e7827c3a7bdf0483242ffa70210e67eaa5f0a5fb66b6c543742611d010d8c",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-roblox.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-roblox.txt"
   },
   {
     "name": "list-google.txt",
@@ -149,7 +149,7 @@
     "description": "list-google из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
     "hash": "c5a5cc941366033e86b835b500614da1cbe5dfb49c2eaa589f5febad89661913",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-google.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-google.txt"
   },
   {
     "name": "list-general-flowseal.txt",
@@ -157,6 +157,6 @@
     "description": "list-general из flowseal/zapret-discord-youtube (Перенёс shlynas(roter)",
     "hash": "e74fbb3325933c32546402b28d0eb592efd39fa7e2746b1f2ede26f62d4a2432",
     "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/list-general-flowseal.txt"
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/lists/include/list-general-flowseal.txt"
   }
 ]
