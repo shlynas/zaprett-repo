@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "id": "strategy-alt13",
+  "name": "strategy-alt13",
+  "version": "1.0.0",
+  "author": "shlynas",
+  "description": "Стратегия alt13 от shlynas",
+  "dependencies": [
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/quic_initial_dbankcloud_ru.json",
+    "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-alt13.txt",
+    "sha256": "598589142ebe9185b1aaff86c07c5e40498188ae968363307df110f2e162b3e8"
+  }
+}

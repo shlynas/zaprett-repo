@@ -127,6 +127,16 @@
       "manifest": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/strategies/nfqws/strategy-alt11.json"
     },
     {
+      "id": "strategy-alt12",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/strategies/nfqws/strategy-alt12.json"
+    },
+    {
+      "id": "strategy-alt13",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/strategies/nfqws/strategy-alt13.json"
+    },
+    {
       "id": "strategy-alt2",
       "type": "nfqws",
       "manifest": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/manifests/strategies/nfqws/strategy-alt2.json"

@@ -24,6 +24,22 @@
     "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-alt11.txt"
   },
   {
+    "name": "strategy-alt12.txt",
+    "author": "flowseal",
+    "description": "Порт стратегии alt12 от flowseal (Обновлена shlynas(roter)",
+    "hash": "91d0a498160f72ceca6f4692ddee817ebd90539ccedd9dd1ec22494888f7f3af",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-alt12.txt"
+  },
+  {
+    "name": "strategy-alt13.txt",
+    "author": "shlynas",
+    "description": "Стратегия alt13 от shlynas",
+    "hash": "598589142ebe9185b1aaff86c07c5e40498188ae968363307df110f2e162b3e8",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/shlynas/zaprett-repo/refs/heads/mr/files/strategies/nfqws/strategy-alt13.txt"
+  },
+  {
     "name": "strategy-alt2.txt",
     "author": "flowseal",
     "description": "Стратегия alt2 из репозитория zapret для Windows (Обновлена shlynas(roter)",
